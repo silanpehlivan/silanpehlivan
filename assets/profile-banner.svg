@@ -4,8 +4,8 @@
 <g fill="none" stroke="#334155" opacity=".5"><path d="M0 70h1200M0 140h1200M0 210h1200M120 0v300M240 0v300M360 0v300M480 0v300M600 0v300M720 0v300M840 0v300M960 0v300M1080 0v300"/></g>
 <rect x="62" y="59" width="5" height="178" rx="2" fill="url(#accent)"/>
 <text x="94" y="95" fill="#67e8f9" font-family="Arial,sans-serif" font-size="16" letter-spacing="4">SECURITY · INTELLIGENCE · ENGINEERING</text>
-<text x="90" y="159" fill="#f8fafc" font-family="Arial,sans-serif" font-size="52" font-weight="700">Şilan Pehlivan</text>
-<text x="94" y="204" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="23">Bilgisayar Mühendisliği · Siber Güvenlik &amp; Yapay Zekâ</text>
+<text x="90" y="159" fill="#f8fafc" font-family="Arial,sans-serif" font-size="52" font-weight="700">Şilan PEHLİVAN</text>
+<text x="94" y="204" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="23">Bilgisayar Mühendisi · Siber Güvenlik &amp; Yapay Zekâ</text>
 <g fill="none" stroke="url(#accent)" stroke-width="3"><path d="M1010 66l65 27v60c0 47-32 71-65 91-33-20-65-44-65-91V93z"/><path d="M980 151l21 21 42-45"/><path d="M880 111h48m147 83h55M1010 42v-25M933 219l-29 29"/></g>
 <g fill="#a78bfa"><circle cx="880" cy="111" r="6"/><circle cx="1130" cy="194" r="6"/><circle cx="904" cy="248" r="6"/></g>
 </svg>
