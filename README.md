@@ -17,6 +17,22 @@ Bilgisayar mühendisliği eğitimimi güvenlik analizi, makine öğrenmesi ve uy
 <table>
 <tr>
 <td width="50%">
+<h3>🛡️ CYBER-PULSE</h3>
+<p>IT/OT izleme, yapay zekâ ile anomali analizi ve güvenlik olaylarına müdahaleyi birleştiren platform.</p>
+<p><code>Python</code> <code>FastAPI</code> <code>AI / SOAR</code></p>
+<a href="https://github.com/silanpehlivan/CYBER-PULSE">Projeyi keşfet →</a>
+<p><sub>Özel depo · Geliştirme aşamasında</sub></p>
+</td>
+<td width="50%">
+<h3>🏢 HoldingOps</h3>
+<p>Çok şirketli yapılar için BT operasyonları, güvenlik izleme ve AI destekli karar yönetimi.</p>
+<p><code>Python</code> <code>React / TypeScript</code> <code>AI / RAG</code></p>
+<a href="https://github.com/silanpehlivan/HoldingOps">Projeyi keşfet →</a>
+<p><sub>Özel depo · Geliştirme aşamasında</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
 <h3>🛡️ PhishGuard ML</h3>
 <p>URL risk göstergelerini makine öğrenmesiyle birleştiren oltalama analizi prototipi.</p>
 <p><code>Python</code> <code>FastAPI</code> <code>React</code></p>
